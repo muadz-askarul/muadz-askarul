@@ -16,6 +16,6 @@ As a developer i created things not only liked by customer, but liked by other d
 
 ## 📫 How to reach me 
 You can reach me by 
-- this [github](https://github.com/RazionAsukaru)
+- this [github](https://github.com/muadz-askarul)
 - [linkedin](https://www.linkedin.com/in/muadz-askarul/)
 - email -> goadzaskarul@gmail.com
