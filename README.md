@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @RazionAsukaru (Muadz Askarul Muslim)
+## 👋 Hi, I’m Muadz Askarul Muslim
 
 ## 👀 Main focus and interest
 - web development
